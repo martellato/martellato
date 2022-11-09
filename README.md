@@ -1,4 +1,4 @@
-![Martellato's github stats](https://github-readme-stats.vercel.app/api?username=martellato&count_private=true&show_icons=true&theme=onedark&include_all_commits=true)
+![Martellato's github stats](https://github-readme-stats.vercel.app/api?username=martellato&hide=stars,issues&count_private=true&show_icons=true&theme=onedark&include_all_commits=true)
 
 <!--
 **martellato/martellato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
