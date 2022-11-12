@@ -2,6 +2,9 @@
 [![Martellato's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=martellato&hide=stars,issues&count_private=true&show_icons=true&include_all_commits=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=martellato&theme=onedark" alt="mystreak"/>
 
+![Snake animation](https://github.com/martellato/github-readme/blob/output/github-contribution-snake.svg)
+
+
 <!--
 **martellato/martellato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
