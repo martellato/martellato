@@ -4,8 +4,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=martellato&theme=github-dark" alt="mystreak"/>
 
 <!-- ![Snake animation](https://github.com/martellato/martellato/blob/output/github-contribution-snake.svg) -->
-![GitHub Snake Light](https://github.com/martellato/martellato/blob/output/github-contribution-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/martellato/martellato/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+![GitHub Snake Light](https://github.com/martellato/martellato/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/martellato/martellato/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark#gh-dark-mode-only)
 
 <!--
 **martellato/martellato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
