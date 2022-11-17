@@ -1,7 +1,9 @@
 <!-- [![Martellato's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=martellato&hide=stars,issues&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Martellato's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=martellato&hide=stars,issues&count_private=true&show_icons=true&include_all_commits=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=martellato&theme=github-dark" alt="mystreak"/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=martellato&theme=github-dark#gh-dark-mode-only" alt="mystreak"/> -->
+![Github Stats Light](https://github-readme-streak-stats.herokuapp.com/?user=martellato&theme=github-light#gh-light-mode-only)
+![Github Stats Dark](https://github-readme-streak-stats.herokuapp.com/?user=martellato&theme=github-dark#gh-dark-mode-only)
 
 <!-- ![Snake animation](https://github.com/martellato/martellato/blob/output/github-contribution-snake.svg) -->
 ![GitHub Snake Light](https://github.com/martellato/martellato/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
