@@ -7,8 +7,8 @@
     <img alt="Github streak!" src="https://github-readme-streak-stats.herokuapp.com/?user=martellato&theme=github-light">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/martellato/martellato/blob/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Github streak!" src="https://github.com/martellato/martellato/blob/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/martellato/martellato/blob/output/github-contribution-grid-snake-halloween-dark.svg">
+    <img alt="Github streak!" src="https://github.com/martellato/martellato/blob/output/github-contribution-grid-snake-halloween.svg">
   </picture>
 </p>
 
