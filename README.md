@@ -3,8 +3,10 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=martellato&theme=github-dark">
-    <img alt="Github streak!" src="https://github-readme-streak-stats.herokuapp.com/?user=martellato&theme=github-light">
+<!--     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=martellato&theme=github-dark">
+    <img alt="Github streak!" src="https://github-readme-streak-stats.herokuapp.com/?user=martellato&theme=github-light"> -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=martellato&theme=dark">
+    <img alt="Github streak!" src="https://streak-stats.demolab.com/?user=martellato&theme=default">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/martellato/martellato/blob/output/github-contribution-grid-snake-halloween-dark.svg">
